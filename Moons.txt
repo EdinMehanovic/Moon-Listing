@@ -1,0 +1,177 @@
+ID	Moon	Orbits Planet	Year Discovered	Discoverer By	Distance from Planet (km)	Moon's Diameter (km)	Orbital Period (days)
+001	Adrastea	Jupiter	1979	Jewitt & Danielson	128980	26 X 16	0.298
+002	Aegir	Saturn	2005	D. Jewitt, S. Sheppard, J. Kleyna	20735000	6	1116.5
+003	Aitne	Jupiter	2001	S. Sheppard, D. Jewitt, & J. Kleyna	23547000	3	736
+004	Albiorix	Saturn	2000	Gladman et al.	16392000	30	783
+005	Amalthea	Jupiter	1892	E. Barnard	181300	262 X 134	0.498
+006	Ananke	Jupiter	1951	S. Nicholson	21200000	20	631
+007	Anthe	Saturn	2004	Cassini Imaging Team	197700	1	1.04
+008	Aoede	Jupiter	2003	S. Sheppard, D. Jewitt, & J. Kleyna	23807655	4	748.8
+009	Arche	Jupiter	2002	S. Sheppard	23064000	3	715.6
+010	Ariel	Uranus	1851	W. Lassell	191240	1160	2.52
+011	Atlas	Saturn	1980	R. Terrile	137640	37 X 27	0.602
+012	Autonoe	Jupiter	2001	S. Sheppard, D. Jewitt, & J. Kleyna	24122000	4	753
+013	Bebhionn	Saturn	2005	D. Jewitt, S. Sheppard, J. Kleyna	17119000	6	834.8
+014	Belinda	Uranus	1986	Voyager 2	75260	66	0.624
+015	Bergelmir	Saturn	2005	D. Jewitt, S. Sheppard, J. Kleyna	19338000	6	1005.9
+016	Bestla	Saturn	2005	D. Jewitt, S. Sheppard, J. Kleyna	20129000	7	1083.6
+017	Bianca	Uranus	1986	Voyager 2	75260	42	0.433
+018	Caliban	Uranus	1997	Gladman, Nicholson, Burns, & Kavelaars	7200000	80	579.5
+019	Callirrhoe	Jupiter	2000	Spacewatch Project Minor Planet Center	24200000	10	774
+020	Callisto	Jupiter	1610	Galileo	1883000	4800	16.689
+021	Calypso	Saturn	1980	B. Smith	294660	30 X 16	1.888
+022	Carme	Jupiter	1938	S. Nicholson	22600000	30	692
+023	Carpo	Jupiter	2003	S. Sheppard, D. Jewitt, & J. Kleyna	17100000	3	456.5
+024	Chaldene	Jupiter	2000	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier	23179000	3.8	741
+025	Charon	Pluto	1978	J. Christy	19571	1207	6.387
+026	Cordelia	Uranus	1986	Voyager 2	49750	26	0.335
+027	Cressida	Uranus	1986	Voyager 2	61770	62	0.464
+028	Cupid	Uranus	2003	M. Showalter & J. Lissauer	74800	12	0.618
+029	Cyllene	Jupiter	2003	S. Sheppard, D. Jewitt, & J. Kleyna	24000000	2	737.8
+030	Daphnis	Saturn	2005	Cassini Imaging Science Team	136500	7	0.594
+031	Deimos	Mars	1877	Asaph Hall	23460	12.4	1.2624
+032	Desdemona	Uranus	1986	Voyager 2	62660	54	0.474
+033	Despina	Neptune	1989	Voyager 2	62000	160	0.4
+034	Dione	Saturn	1684	G. Cassini	377400	1120	2.737
+035	Elara	Jupiter	1905	C. Perrine	11737000	80	259.65
+036	Enceladus	Saturn	1789	W. Herschel	238020	498	1.37
+037	Epimetheus	Saturn	1966	R. Walker	151422	138 X 110	0.694
+038	Erinome	Jupiter	2000	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier	23279000	3.2	672
+039	Erriapo	Saturn	2000	Intl. Team of 8 Astronomers	17611000	10	871.17
+040	Euanthe	Jupiter	2001	S. Sheppard, D. Jewitt, & J. Kleyna	21017000	3	622
+041	Eukelade	Jupiter	2003	S. Sheppard, D. Jewitt, & J. Kleyna	24557295	4	746.4
+042	Euporie	Jupiter	2001	S. Sheppard, D. Jewitt, & J. Kleyna	19394000	2	534
+043	Europa	Jupiter	1610	Galileo	670900	3126	3.551
+044	Eurydome	Jupiter	2001	S. Sheppard, D. Jewitt, & J. Kleyna	23219000	3	713
+045	Farbauti	Saturn	2005	D. Jewitt, S. Sheppard, J. Kleyna	20390000	5	1086.1
+046	Fenrir	Saturn	2005	D. Jewitt, S. Sheppard, J. Kleyna	22453000	4	1260.3
+047	Ferdinand	Uranus	2001	M. Holman & B. Gladman et al	20901000	21	2823.4
+048	Fornjot	Saturn	2005	D. Jewitt, S. Sheppard, J. Kleyna	25108000	6	1490.9
+049	Francisco	Uranus	2001	M. Holman & B. Gladman et al	4276000	22	266.6
+050	Galatea	Neptune	1989	Voyager 2	52500	140	0.33
+051	Ganymede	Jupiter	1610	Galileo	1070000	5276	7.155
+052	Greip	Saturn	2006	S. Sheppard, D. Jewitt, J. Kleyna	18206000	6	921.2
+053	Halimede	Neptune	2002	M. Holman & J.J. Kavelaars	15686000	60	1874.83
+054	Harpalyke	Jupiter	2000	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier	21105000	4.3	595
+055	Hati	Saturn	2005	D. Jewitt, S. Sheppard, J. Kleyna	19856000	6	1038.7
+056	Hegemone	Jupiter	2003	S. Sheppard, D. Jewitt, & J. Kleyna	24514095	3	781.6
+057	Helene	Saturn	1980	Laques & Lecacheux	377400	36 X 28	2.737
+058	Helike	Jupiter	2003	S. Sheppard, D. Jewitt, & J. Kleyna	10972830	4	233.8
+059	Hermippe	Jupiter	2001	S. Sheppard, D. Jewitt, & J. Kleyna	21252000	4	630
+060	Himalia	Jupiter	1904	C. Perrine	11480000	170	250.57
+061	Hydra	Pluto	2005	H.A. Weaver, S.A. Stern, et al.	64780	44-130	38.206
+062	Hyperion	Saturn	1848	W. Bond	1481000	360 X 226	21.277
+063	Hyrokkin	Saturn	2006	S. Sheppard, D. Jewitt, J. Kleyna	18437000	8	931.8
+064	Iapetus	Saturn	1671	G. Cassini	3561300	1436	79.3215
+065	Ijiraq	Saturn	2000	Intl. Team of 8 Astronomers	11440000	14	451.48
+066	Io	Jupiter	1610	Galileo	421600	3629	1.769
+067	Iocaste	Jupiter	2000	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier	21269000	5.2	657
+068	Isonone	Jupiter	2000	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier	23217000	3.8	712
+069	Janus	Saturn	1966	A. Dollfus	151472	190 X 154	0.695
+070	Jarnsaxa	Saturn	2006	S. Sheppard, D. Jewitt, J. Kleyna	18811000	6	964.7
+071	Juliet	Uranus	1986	Voyager 2	64360	84	0.493
+072	Kale	Jupiter	2001	S. Sheppard, D. Jewitt, & J. Kleyna	23124000	2	609
+073	Kallichore	Jupiter	2003	S. Sheppard, D. Jewitt, & J. Kleyna	22395390	2	683
+074	Kalyke	Jupiter	2000	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier	23583000	5.2	760
+075	Kari	Saturn	2006	S. Sheppard, D. Jewitt, J. Kleyna	22118000	7	1233.6
+076	Kerberos	Pluto	2011	Showalter, M. R. et al.	59000	13-34	32.1
+077	Kiviuq	Saturn	2000	Intl. Team of 8 Astronomers	11365000	17	449.22
+078	Kore	Jupiter	2003	S. Sheppard, D. Jewitt, & J. Kleyna	24543000	2	779.2
+079	Laomedeia	Neptune	2002	M. Holman & J.J. Kavelaars	22613200	38	2980.4
+080	Larissa	Neptune	1989	Voyager 2	73600	200	0.56
+081	Leda	Jupiter	1974	C. Kowal	11094000	10	238.72
+082	Loge	Saturn	2006	S. Sheppard, D. Jewitt, J. Kleyna	23065000	6	1312
+083	Lysithea	Jupiter	1938	S. Nicholson	11720000	24	259.22
+084	Mab	Uranus	2003	M. Showalter & J. Lissauer	97734	16	0.923
+085	Magaclite	Jupiter	2000	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier	23806000	5.4	771
+086	Margaret	Uranus	2003	S. Sheppard	14688700	11	1694.8
+087	Methone	Saturn	2004	C.C. Porco et al./Cassini	194000	3	1.01
+088	Metis	Jupiter	1979	S. Sunnott	127960	40	0.295
+089	Mimas	Saturn	1789	W. Herschel	185520	398	0.942
+090	Miranda	Uranus	1948	G. Kuiper	129780	472	1.414
+091	Mneme	Jupiter	2003	Scott S. Sheppard & B. Gladman	21069000	2	620.04
+092	Moon (Luna)	Earth	-297977	First Human	384400	3475	27.322
+093	Mundilfari	Saturn	2000	Intl. Team of 8 Astronomers	18709000	7	951.38
+094	Naiad	Neptune	1989	Voyager 2	48200	50	0.3
+095	Narvi	Saturn	2003	Scott S. Sheppard, David Jewitt, and Jan Kleyna	18719000	8	956.2
+096	Nereid	Neptune	1949	G. Kuiper	5513400	340	360.16
+097	Neso	Neptune	2002	Holman & Gladman et al	47279670	60	9007.1
+098	Nix	Pluto	2005	H.A. Weaver, S.A. Stern, et al.	48675	44-130	24.856
+099	Oberon	Uranus	1787	W. Herschel	582600	1526	13.463
+100	Ophelia	Uranus	1986	Voyager 2	53440	30.4	0.3764
+101	Orthosie	Jupiter	2001	S. Sheppard, D. Jewitt, & J. Kleyna	21168000	2	617
+102	Paaliaq	Saturn	2000	Intl. Team of 8 Astronomers	15199000	25	686.92
+103	Pallene	Saturn	2004	C.C. Porco et al./Cassini	211000	4	1.14
+104	Pan	Saturn	1990	M. Showalter	133630	19.32	0.575
+105	Pandora	Saturn	1980	S. Collins	141700	110 X 62	0.629
+106	Pasiphae	Jupiter	1908	P. Melotte	23500000	36	735
+107	Pasithee	Jupiter	2001	S. Sheppard, D. Jewitt, & J. Kleyna	23029000	2	715
+108	Perdita	Uranus	1986	E. Karkoschka/Voyager 2	76420	20	0.638
+109	Phobos	Mars	1877	Asaph Hall	9270	22.5	0.3189
+110	Phoebe	Saturn	1898	W. Pickering	12952000	220	550.48
+111	Polydeuces	Saturn	2004	C.C. Porco et al./Cassini	377400	4	2.74
+112	Portia	Uranus	1986	Voyager 2	66085	108	0.513
+113	Praxidike	Jupiter	2000	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier	21147000	6.8	632
+114	Prometheus	Saturn	1980	S. Collins	139350	148 X 68	0.613
+115	Prospero	Uranus	1999	Kavelaars, Gladman, Holman et al	16256000	30	5.346
+116	Proteus	Neptune	1989	Voyager 2	117600	420	1.12
+117	Psamathe	Neptune	2003	D. Jewitt, J. Kleyna & S. Sheppard	46738000	38	9136.11
+118	Puck	Uranus	1985	Voyager 2	86010	154	0.762
+119	Rhea	Saturn	1672	G. Cassini	527040	1528	4.518
+120	Rosalind	Uranus	1986	Voyager 2	69941	54	0.558
+121	S/2000 J11	Jupiter	2000	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier	12555000	4	284.3
+122	S/2003 J 23	Jupiter	2003	S. Sheppard, D. Jewitt, & J. Kleyna	23563000	2	732.44
+123	S/2003 J10	Jupiter	2003	S. Sheppard, D. Jewitt, & J. Kleyna	24249600	2	767
+124	S/2003 J12	Jupiter	2003	S. Sheppard, D. Jewitt, & J. Kleyna	19002480	1	533.3
+125	S/2003 J15	Jupiter	2003	S. Sheppard, D. Jewitt, & J. Kleyna	22000000	2	668.4
+126	S/2003 J16	Jupiter	2003	S. Sheppard, D. Jewitt, & J. Kleyna	21000000	2	595.4
+127	S/2003 J17	Jupiter	2003	S. Sheppard, D. Jewitt, & J. Kleyna	22000000	2	690.3
+128	S/2003 J18	Jupiter	2003	S. Sheppard, D. Jewitt, & J. Kleyna	20700000	2	606.3
+129	S/2003 J19	Jupiter	2003	S. Sheppard, D. Jewitt, & J. Kleyna	22800000	2	701.3
+130	S/2003 J2	Jupiter	2003	S. Sheppard, D. Jewitt, & J. Kleyna	28570410	2	982.5
+131	S/2003 J3	Jupiter	2003	S. Sheppard, D. Jewitt, & J. Kleyna	18339885	2	504
+132	S/2003 J4	Jupiter	2003	S. Sheppard, D. Jewitt, & J. Kleyna	23257920	2	723.2
+133	S/2003 J5	Jupiter	2003	S. Sheppard, D. Jewitt, & J. Kleyna	24084180	4	759.7
+134	S/2003 J9	Jupiter	2003	S. Sheppard, D. Jewitt, & J. Kleyna	22441680	1	683
+135	S/2004 N 1	Neptune	2013	Showalter, M. R. et al.	105300	16–20	0.936
+136	S/2004 S07	Saturn	2004	D. Jewitt, S. Sheppard, J. Kleyna	19800000	6	1103
+137	S/2004 S12	Saturn	2004	D. Jewitt, S. Sheppard, J. Kleyna	19650000	5	1048
+138	S/2004 S13	Saturn	2004	D. Jewitt, S. Sheppard, J. Kleyna	18450000	6	906
+139	S/2004 S17	Saturn	2004	D. Jewitt, S. Sheppard, J. Kleyna	18600000	4	986
+140	S/2006 S1	Saturn	2006	S. Sheppard, D. Jewitt, J. Kleyna	18981135	6	970
+141	S/2006 S3	Saturn	2006	S. Sheppard, D. Jewitt, J. Kleyna	21132000	6	1142
+142	S/2007 S2	Saturn	2007	S. Sheppard, D. Jewitt, J. Kleyna	16560000	6	800
+143	S/2007 S3	Saturn	2007	S. Sheppard, D. Jewitt, J. Kleyna	20518500	5	1100
+144	S/2010 J 1	Jupiter	2010	S. Sheppard, D. Jewitt, & J. Kleyna	23314335	2	582.22
+145	S/2010 J 2	Jupiter	2010	Veillet	20307150	1	725.06
+146	S/2011 J 1	Jupiter	2011	Jacobson et al.	20155290	1	724.34
+147	S/2011 J 2	Jupiter	2011	S. Sheppard, D. Jewitt, & J. Kleyna	23329710	1	588.82
+148	Sao	Neptune	2002	M. Holman & J.J. Kavelaars	22337190	38	2925.6
+149	Setebos	Uranus	1999	Kavelaars, Gladman, Holman et al	17418000	47	2234.8
+150	Siarnaq	Saturn	2000	Intl. Team of 8 Astronomers	18160000	45	893.07
+151	Sinope	Jupiter	1914	S. Nicholson	23700700	28	758
+152	Skathi	Saturn	2000	Intl. Team of 8 Astronomers	15645000	8	728.93
+153	Skoll	Saturn	2006	S. Sheppard, D. Jewitt, J. Kleyna	17665000	6	878.3
+154	Sponde	Jupiter	2001	S. Sheppard, D. Jewitt, & J. Kleyna	23808000	2	732
+155	Stephano	Uranus	1999	Kavelaars, Gladman, Holman et al	8004000	32	677.4
+156	Styx	Pluto	2012	Showalter, M. R. et al.	42000	45224	20.2
+157	Surtur	Saturn	2006	S. Sheppard, D. Jewitt, J. Kleyna	22707000	6	1297.7
+158	Suttungr	Saturn	2000	Gladman et al.	19470000	7	1016.8
+159	Sycorax	Uranus	1997	Gladman, Nicholson, Burns, & Kavelaars	12200000	160	1283.39
+160	Tarqeq	Saturn	2007	S. Sheppard, D. Jewitt, J. Kleyna	18009000	7	887.5
+161	Tarvos	Saturn	2000	Intl. Team of 8 Astronomers	18239000	16	925.7
+162	Taygete	Jupiter	2000	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier	23360000	5	687
+163	Telesto	Saturn	1980	B. Smith	294660	30 X 16	1.888
+164	Tethys	Saturn	1684	G. Cassini	294660	1060	1.888
+165	Thalassa	Neptune	1989	Voyager 2	50000	90	0.31
+166	Thebe	Jupiter	1979	S. Synnott	221900	100	0.675
+167	Thelxinoe	Jupiter	2003	Scott S. Sheppard & B. Gladman	21162000	2	628.09
+168	Themisto	Jupiter	1975	C. Kowal & E. Roemer	7507000	8	130.07
+169	Thrymr	Saturn	2000	Intl. Team of 8 Astronomers	20470000	7	1088.89
+170	Thyone	Jupiter	2001	S. Sheppard, D. Jewitt, & J. Kleyna	21312000	4	615
+171	Titan	Saturn	1655	C. Huygens	1221850	5150	15.945
+172	Titania	Uranus	1787	W. Herschel	435840	1578	8.706
+173	Trinculo	Uranus	2001	M. Holman, J. Kavelaars & D. Milisavljevic	8578000	10	759
+174	Triton	Neptune	1846	W. Lassel	354800	2705	5.877
+175	Umbriel	Uranus	1851	W. Lassel	265970	1190	4.144
+176	Ymir	Saturn	2000	Intl. Team of 8 Astronomers	23096000	20	1312.37
