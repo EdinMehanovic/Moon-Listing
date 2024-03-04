@@ -1,5 +1,5 @@
 # Moon-Listing
 ## Description
-#### This was a final project I had for a class in which we were given a txt file and we had to display all the moons in said txt file. After displaying them, the user is then supposed to type in the ID of the moon they wish to learn more about. Such facts include, 
+#### This was a final project I had for a class in which we were given a txt file and we had to display all the moons in said txt file (all the moons in our solar system). After displaying them, the user is then asked to type in the ID of the moon they wish to learn more about (there is error prevention code so the program still runs if the user types in a value that DNE) . Such facts include, the planet the moon orbits, the year it was discovered, who discovered said moon, the distance the moon is from the planet it orbits, the moons diameter in km, and the orbial period of the moon in days. After viewing the final display, the user is asked if they would like to run the program again. The program ends when the users wishes to end it. 
 ## How to View
 #### Sign into GitHub and run a codespace on the repository, then select 'AssignmentFLEM.py' and run the code to be able to interact with the program. If you are not able to sign-in, then simply look over to both 'Output1.PNG' and 'Output2.PNG' to see an example of what the program outputs. 
