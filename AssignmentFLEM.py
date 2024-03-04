@@ -125,7 +125,3 @@ def main_bus(repeat = 'y'):
 		main_bus(repeat)
 
 main_bus()
-
-# Edin Mehanovic 12/12/2023
-# What I found challenging was wrapping my head around how dictionaries work again.
-# I didn't necessaryily learn anything new, I just used what I learned previously for this final exam. 
